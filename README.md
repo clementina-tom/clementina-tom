@@ -32,6 +32,7 @@ Super practical and effective AI. So, that means:
 Basically, I make sure the tech is scalable, dependable, and genuinely useful.
 
 My Toolkit 🛠️
+
 Here's what I generally work with:
 
   - AI/ML: Making models efficient, getting them to work on devices.
