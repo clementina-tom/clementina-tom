@@ -1,64 +1,63 @@
-## About Me 
+# Hi, I'm Clementina 👋
 
-<!--
-**clementina-tom/clementina-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👋 Hi! I'm Clementina-tom.
-
-You know the junction where hardware, software and now AI intersect? That's my thing, getting AI/ML with the IoT to actually click so we can build awesome, automated systems that can turn useful out there - in the real world...
-
-## What I'm Building 🔬
-
-Super practical and effective AI. So, that means:
-
-   - Crafting really efficient ML models for tiny devices.
-
-   - Getting AI brains hooked up directly into hardware for smooth, smart automation.
-     
-   - Bridging that gap between data insights and actual, working solutions.
-     
-
-Basically, I make sure the tech is scalable, dependable, and genuinely useful.
-
-My Toolkit 🛠️
-
-Here's what I generally work with:
-
-  - AI/ML: Making models efficient, getting them to work on devices.
-
-  - IoT & Edge: Connecting devices, embedded systems, processing sensor data.
-
-  - Language: Python, C++.
-
-  - Frameworks: TensorFlow Lite, PyTorch Mobile, scikit-learn.
-
-  - My Vibe: Automation, building prototypes, data-driven thinking.
+**ML Engineer building production AI systems — RAG pipelines, MLOps, and predictive modeling.**  
 
 
-## [What I've Built 🌟](url)
+---
 
-Go check out my repos to see exciting automated projects. You'll find projects that show how I turn ideas into actual working tech.
+## What I Do
 
-   [Linktomycoolestproject!]
-   
-   [Linktoanotherfavoritebuild!]
-   
-   [ Myportfolio ] (ifyouhaveone)
-   
+I design and ship end-to-end AI systems — from data pipelines and model training through to deployment and monitoring. My focus is on building things that actually work in production, not just in notebooks.
 
+- **LLM & RAG Systems** — retrieval-augmented generation, semantic search, LangChain, LlamaIndex, FAISS, vector databases
+- **MLOps & Deployment** — model serving, pipeline automation, cloud deployment (AWS/GCP), Docker, experiment tracking
+- **Predictive Modeling** — time-series forecasting, anomaly detection, classification and regression at scale
+- **Data Engineering** — automated ETL pipelines, data transformation, business intelligence workflows
 
+---
 
-### Let's Connect! 🤝
+## Tech Stack
 
-If you need an AI/ML Edge Engineer to spice up your next project with smart automation? I'm open for exciting contract work and always up for a quick chat about collaborating.
+**Languages:** Python, SQL  
+**ML/AI:** Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, PyTorch, HuggingFace Transformers  
+**LLM Tooling:** LangChain, LlamaIndex, FAISS, ChromaDB, OpenAI API  
+**MLOps:** Docker, MLflow, FastAPI, GitHub Actions  
+**Cloud:** AWS (S3, EC2, Lambda), GCP  
+**Data:** Pandas, NumPy, Spark (basics), PostgreSQL  
+
+---
+
+## Featured Projects
+
+### 🤖 RAG Job Matcher
+AI-powered job matching system using retrieval-augmented generation. Ingests job descriptions, embeds them into a vector store, and matches candidates based on semantic similarity.  
+`LangChain` `FAISS` `OpenAI` `FastAPI`
+
+### 📈 Trade & Market AI Forecasting
+End-to-end time-series forecasting system for financial market data. Includes walk-forward validation, SARIMA, Prophet, and ensemble modeling.  
+`Prophet` `LightGBM` `Time-series` `Python`
+
+### 🛒 Farm to Feed — Shopping Basket Recommendation *(Zindi)*
+Production-grade ML pipeline for surplus produce recommendation. 5-seed hybrid ensemble (LightGBM + CatBoost) achieving public AUC of 0.945.  
+`LightGBM` `CatBoost` `Ensemble` `MLOps`
+
+### ⚙️ Automated ETL Pipeline Suite
+Modular data workflow system for extract → transform → load operations. Designed for business intelligence and data sync use cases.  
+`Python` `Automation` `Data Engineering`
+
+---
+
+## Currently
+
+- 🔭 Building production-grade AI systems for real-world deployment
+- 🌍 Competing on [Zindi](https://zindi.africa) — applied ML challenges
+- 💼 Available for roles in ML Engineering, AI Engineering, and Data Science
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com.in/Clementina-tom)
+[![Twitter/X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://www.x.com/ClementinaTom)
+
+> *"I build AI systems that ship."*
