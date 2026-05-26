@@ -60,8 +60,8 @@ Modular data workflow system for extract → transform → load operations. Desi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com.in/Clementina-tom)
 [![Twitter/X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://www.x.com/ClementinaTom)
 [![Hashnode](https://img.shields.io/badge/Hashnode-white?style=flat&logo=Hashnode)](https://clementina-tom.hashnode.dev)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@clememtina-tom)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/clementina-tom)
+[![Medium](https://img.shields.io/badge/Medium-white?style=flat&logo=medium&logoColor=black)](https://medium.com/@clementina-tom)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/clementina-tom)
 
 
 > *"I build AI systems that ship."*
