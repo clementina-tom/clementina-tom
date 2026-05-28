@@ -57,7 +57,7 @@ Modular data workflow system for extract → transform → load operations. Desi
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com.in/Clementina-tom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Clementina-tom)
 [![Twitter/X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://www.x.com/ClementinaTom)
 [![Hashnode](https://img.shields.io/badge/Hashnode-green?style=flat&logo=Hashnode)](https://clementina-tom.hashnode.dev)
 [![Medium](https://img.shields.io/badge/Medium-white?style=flat&logo=medium&logoColor=black)](https://medium.com/@clementina-tom)
